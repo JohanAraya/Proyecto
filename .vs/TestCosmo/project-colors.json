@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d9ed30d-3ea4-46d5-a528-d4aac0bfb25d": {
+      "ProjectGuid": "5d9ed30d-3ea4-46d5-a528-d4aac0bfb25d",
+      "DisplayName": "TestCosmo",
+      "ColorIndex": 0
+    },
+    "9ca08c2d-a4fc-4381-9626-49dd5e7bee24": {
+      "ProjectGuid": "9ca08c2d-a4fc-4381-9626-49dd5e7bee24",
+      "DisplayName": "Pojos",
+      "ColorIndex": 1
+    },
+    "a1e1cef9-37d6-4063-83ec-feafd39b6ff9": {
+      "ProjectGuid": "a1e1cef9-37d6-4063-83ec-feafd39b6ff9",
+      "DisplayName": "Datos",
+      "ColorIndex": 2
+    },
+    "d55d06d1-481d-44da-af08-dad8890b896c": {
+      "ProjectGuid": "d55d06d1-481d-44da-af08-dad8890b896c",
+      "DisplayName": "Conexion",
+      "ColorIndex": 3
+    },
+    "8a29d6de-85e3-4267-a698-6e3f5f92460d": {
+      "ProjectGuid": "8a29d6de-85e3-4267-a698-6e3f5f92460d",
+      "DisplayName": "Servicios",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
